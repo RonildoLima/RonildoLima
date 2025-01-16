@@ -5,10 +5,10 @@
 <p align="left">📝 Graduando Ciências da Computação na Universidade Estadual da Paraíba<br>🔍 No momento estou estudando o framework Spring Boot<br>📧 Contate-me no email: ronildolima996@gmail.com</p>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonildoLima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonildoLima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/Gabrielgln">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonildoLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonildoLima&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ###
